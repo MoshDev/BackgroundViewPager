@@ -17,6 +17,12 @@ Simply add your "BackgroundViewPager" into your layout xml, and assign a drawabl
         flow:image="@drawable/bg5" />
         
         
+Contact Me
+=================
+Twitter : https://twitter.com/MoshErsan
+Gmail: mr.ersan85@gmail.com
+        
+        
 License
 =================
 
