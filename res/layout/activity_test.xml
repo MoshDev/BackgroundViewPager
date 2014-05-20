@@ -2,14 +2,14 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:flow="http://schemas.android.com/apk/res/com.infusionapps.backgroundviewpager"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@drawable/bg16" >
+    android:layout_height="match_parent" >
 
     <com.infusionapps.widget.BackgroundViewPager
         android:id="@+id/flowViewPager1"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_centerInParent="true"
-        flow:image="@drawable/bg5" />
+        flow:factor="3"
+        flow:image="@drawable/wide_bg" />
 
 </RelativeLayout>

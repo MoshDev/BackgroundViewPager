@@ -1,0 +1,7 @@
+/.metadata
+bin/
+gen/
+*.metadata
+*.settings
+.DS_Store
+.classpath

@@ -3,6 +3,10 @@
     android:dither="true"
     android:shape="rectangle" >
 
+    <stroke
+        android:width="2dp"
+        android:color="#0ff" />
+
     <gradient
         android:centerColor="#A1FFFFFF"
         android:endColor="#A10000FF"

@@ -23,18 +23,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int image=0x7f010000;
     }
     public static final class drawable {
-        public static final int bg16=0x7f020000;
-        public static final int bg5=0x7f020001;
-        public static final int ic_launcher=0x7f020002;
-        public static final int test_shape=0x7f020003;
+        public static final int ic_launcher=0x7f020000;
+        public static final int test1=0x7f020001;
+        public static final int test2=0x7f020002;
+        public static final int wide_bg=0x7f020003;
     }
     public static final class id {
         public static final int flowViewPager1=0x7f060000;
-        public static final int textView1=0x7f060001;
+        public static final int textView1=0x7f060002;
+        public static final int viewPager2=0x7f060001;
     }
     public static final class layout {
         public static final int activity_test=0x7f030000;
-        public static final int fragment_test=0x7f030001;
+        public static final int activity_test_2=0x7f030001;
+        public static final int fragment_test=0x7f030002;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
